@@ -1,3 +1,3 @@
 .PHONY: pandas
 pandas:
-	pipenv run python pandas/quick-start.ipynb
+	pipenv run python pandas/main.py
