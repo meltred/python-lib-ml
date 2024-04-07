@@ -11,3 +11,10 @@ Install Dependencies
 ```bash
 pipenv install
 ```
+To Run
+```bash
+make pandas
+```
+```bash
+make numpy
+```
