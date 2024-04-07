@@ -1,4 +1,4 @@
 import numpy as np
 
-print("VERSION:",np.__version__)
+print("Numpy Version: ", np.__version__)
 print(".....starting jupyter notebook")
