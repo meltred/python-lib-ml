@@ -18,3 +18,6 @@ make pandas
 ```bash
 make numpy
 ```
+```bash
+make matplotlib 
+```
